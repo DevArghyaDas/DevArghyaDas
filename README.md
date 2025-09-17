@@ -1,4 +1,4 @@
-## 👋 Hi, I’m @Arghya Das
+# 👋 Hi, I’m @Arghya Das
 - 📖 I'm a fullstack web devoloper
 - 👀 I’m interested in pograming
 - 🌱 Currently learning and exploreing new things
